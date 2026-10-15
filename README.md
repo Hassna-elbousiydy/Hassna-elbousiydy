@@ -5,6 +5,10 @@
 </picture>
 
 <p align="center">
+  <img src="./assets/profile-portrait.jpg" alt="Portrait of Hassna El-Bousiydy" width="112">
+</p>
+
+<p align="center">
   <strong>Applied AI & Data Science · NLP & Information Retrieval · Time-Series Forecasting</strong><br>
   I build AI systems that can show their work.<br><br>
   <a href="mailto:h.elbousiydy@gmail.com"><strong>Discuss a project</strong></a>
